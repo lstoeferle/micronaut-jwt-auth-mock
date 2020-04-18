@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: de.lstoeferle.example
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
